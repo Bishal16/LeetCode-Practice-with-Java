@@ -1,6 +1,7 @@
 package dev.Mahathir;
 
 import dev.Mahathir.Solutions.NumRabbits_781;
+import dev.Mahathir.Solutions.minDominoRotations_1007;
 import dev.Mahathir.Solutions.pushDominos_838;
 
 public class Main {
@@ -20,5 +21,8 @@ public class Main {
 //        s="...";
 //        pushDominos_838 p = new pushDominos_838();
 //        p.pushDominoes(s);
+        minDominoRotations_1007 x = new minDominoRotations_1007();
+
+        x.minDominoRotations(new int []{3,5,1,2,3}, new int []{3,6,3,3,4});
     }
 }
