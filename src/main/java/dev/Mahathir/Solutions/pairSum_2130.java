@@ -12,7 +12,7 @@ import java.util.ArrayList;
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class pairSum_2130 {
     public int pairSum_2130(ListNode head) {
         ArrayList<Integer> arr = new ArrayList<>();
 
